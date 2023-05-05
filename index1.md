@@ -16,6 +16,7 @@
 ![tinkercad](https://github.com/sooryanath1/Internship1/blob/main/img/tinkerCAD.png)
 * Created a new circuit
 * Built basic arduino circuits
+![Circuits](gallery-row: )
 
 # Day 3  (04-05-2023)
 > **Advanced arduino circuits**
