@@ -13,6 +13,7 @@
 # Day 2  (03-05-2023)
 > **TinkerCAD**
 * Signup on tinkercad
+![tinkercad](https://github.com/sooryanath1/Internship1/blob/main/InternshipDay1.jpg)
 * Created a new circuit
 * Built basic arduino circuits
 
