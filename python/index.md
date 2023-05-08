@@ -59,3 +59,30 @@ else:
     print("inavlid choice")
 ```
 ![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/calc.png)
+> **Vowels Check**
+```
+'''
+
+Vowel
+
+'''
+x=str(input('enter a letter '))
+if(x=='a'):
+    print("vowel")
+elif(x=='e'):
+    print("vowel")
+elif(x=='i'):
+    print("vowel")
+elif(x=='o'):
+    print("vowel")
+elif(x=='u'):
+    print("vowel")
+else:
+    print('consonant')
+```
+![sampleoutput]()
+   
+
+
+
+
