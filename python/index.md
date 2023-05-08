@@ -80,7 +80,7 @@ elif(x=='u'):
 else:
     print('consonant')
 ```
-![sampleoutput]()
+![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/vowel2.png)
    
 
 
