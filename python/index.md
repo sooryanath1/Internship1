@@ -14,3 +14,25 @@ print('My Name is',n,'\n',
 ```
 ## Sample Code With Output
 ![output](https://github.com/sooryanath1/Internship1/blob/main/img/Screenshot%202023-05-08%20111830.png)
+> **Largest Among 3 Numbers**
+```
+'''
+
+Largest Among 3 Numbers
+
+'''
+x=int(input("enter a number : "))
+y=int(input("enter another number : "))
+z=int(input("enter one more number : "))
+if(x>y):
+    if(x>z):
+        print(x)
+elif(y>x):
+    if(y>z):
+        print(y)
+    else:
+        print(z)
+else:
+    print('invalid')
+```
+![sample output]()
