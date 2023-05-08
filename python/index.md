@@ -36,3 +36,26 @@ else:
     print('invalid')
 ```
 ![sample output](https://github.com/sooryanath1/Internship1/blob/main/img/largest3.png)
+> **Calculator**
+```
+'''
+
+calculator
+
+'''
+print("\n1.addition\n2.division\n3.multiplication\n4.substarction\n")
+c=int(input("enter your choice "))
+x=int(input("enter a number : "))
+y=int(input("enter another number : "))
+if(c==1):
+    print('result : ',x+y)
+elif(c==2):
+    print('result : ',x/y)
+elif(c==3):
+    print('result : ',x*y)
+elif(c==4):
+    print('result : ',x-y)
+else:
+    print("inavlid choice")
+```
+![sampleoutput]()
