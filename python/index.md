@@ -35,4 +35,4 @@ elif(y>x):
 else:
     print('invalid')
 ```
-![sample output]()
+![sample output](https://github.com/sooryanath1/Internship1/blob/main/img/largest3.png)
