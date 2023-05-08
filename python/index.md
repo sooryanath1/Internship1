@@ -58,4 +58,4 @@ elif(c==4):
 else:
     print("inavlid choice")
 ```
-![sampleoutput]()
+![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/calc.png)
