@@ -12,3 +12,5 @@ print('My Name is',n,'\n',
 'I am from',p,'\n',
 'I am  Studying in',d,'department of',c,'\n')
 ```
+## Sample Code With Output
+![output]()
