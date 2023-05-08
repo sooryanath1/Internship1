@@ -13,4 +13,4 @@ print('My Name is',n,'\n',
 'I am  Studying in',d,'department of',c,'\n')
 ```
 ## Sample Code With Output
-![output]()
+![output](https://github.com/sooryanath1/Internship1/blob/main/img/Screenshot%202023-05-08%20111830.png)
