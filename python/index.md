@@ -117,7 +117,7 @@ for i in range(1,11,1):
     
 ```
 ![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/Multiplication%20Table%20Using%20For%20Loop.png)
-> **Fibonacci Seriess** 
+> **Fibonacci Series** 
 ```
 n=int(input("Enter the Limit"))
 i=0
@@ -135,3 +135,15 @@ while(i<n):
 
 ```
 ![Fibonacci Seriess](https://user-images.githubusercontent.com/132330607/237016556-f70d23bf-b8c3-43a5-8194-8f0ee1b32c02.png)
+> **Sum Of N numbers Using While Loop** 
+```
+n=int(input("Enter the Limit"))
+i=1
+s=0
+while(i<=n):
+   s+=i
+   i=i+1
+print(s)
+
+```
+![Sum Of N numbers Using While Loop](https://user-images.githubusercontent.com/132330607/237017956-399a8557-d00d-45cf-8ba5-8e6646e4f0da.png)
