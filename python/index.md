@@ -183,3 +183,32 @@ else:
 
 ```
 ![Sum Using Function](https://user-images.githubusercontent.com/132330607/237047689-fc0c11e4-eeed-492e-89b5-9899f37423ba.png)
+
+
+> **odd or even**
+```
+'''
+odd or even
+
+
+'''
+a=int(input("Enter a  Number"))
+if(a//2==1):
+    print("even")
+else:
+    print('odd')
+```
+![positive or Negative](https://github.com/sooryanath1/Internship1/assets/132330607/0e201652-ca97-491c-9f2c-c1e3ea888a13)
+> **posititve or negative**  
+```      
+'''
+positive or Negative
+'''
+a=int(input("Enter a  Number"))
+if(a>0):
+    print("positive")
+else:
+    print('negative')
+```
+![odd even](https://github.com/sooryanath1/Internship1/assets/132330607/fc52147d-b706-4f57-a18c-c42dfa3c5c74)
+
