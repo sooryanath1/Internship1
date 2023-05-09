@@ -117,3 +117,21 @@ for i in range(1,11,1):
     
 ```
 ![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/Multiplication%20Table%20Using%20For%20Loop.png)
+> **Fibonacci Seriess** 
+```
+n=int(input("Enter the Limit"))
+i=0
+n1=0
+n2=1
+n3=0
+while(i<n):
+    print(n3)
+   
+    
+    n3=n3+n2
+    n2=n1
+    n1=n3
+    i=i+1
+
+```
+![Fibonacci Seriess](https://user-images.githubusercontent.com/132330607/237016556-f70d23bf-b8c3-43a5-8194-8f0ee1b32c02.png)
