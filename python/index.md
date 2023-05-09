@@ -105,5 +105,15 @@ for i in range(2,11,2):
     print(i)
 ```
 ![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/odd&even.png)
-
-
+> **Multiplication Table Using For Loop** 
+```
+'''
+Multiplication Table Using For Loop
+ 
+'''
+a=int(input("enter a number"))
+for i in range(1,11,1):
+    print(i ,'x',a,'=',a*i)
+    
+```
+![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/Multiplication Table Using For Loop.png)
