@@ -210,5 +210,6 @@ if(a>0):
 else:
     print('negative')
 ```
-![odd even](https://github.com/sooryanath1/Internship1/assets/132330607/fc52147d-b706-4f57-a18c-c42dfa3c5c74)
+![odd or even](https://github.com/sooryanath1/Internship1/assets/132330607/3e0a8009-73fe-47b7-a76b-d865c831e896)
+
 
