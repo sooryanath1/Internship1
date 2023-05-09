@@ -81,8 +81,29 @@ else:
     print('consonant')
 ```
 ![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/vowel2.png)
-   
+ # Day 6 (09-05-2023)
+> **Odd & Even Using For Loop** 
+```
+'''
 
+ Odd & Even Using For Loop
+'''
 
+'''
+
+ Odd For Loop
+'''
+
+for i in range(1,11,2):
+    print(i)
+
+print('-------------')   
+'''
+Even For Loop
+'''
+for i in range(2,11,2):
+    print(i)
+```
+![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/odd&even.png)
 
 
