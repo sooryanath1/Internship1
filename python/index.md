@@ -147,3 +147,39 @@ print(s)
 
 ```
 ![Sum Of N numbers Using While Loop](https://user-images.githubusercontent.com/132330607/237017956-399a8557-d00d-45cf-8ba5-8e6646e4f0da.png)
+> **Calculator Using Function**
+```
+'''
+Calculator using Function
+
+
+'''
+def add(a,b):
+    return a+b
+def sub(a,b):
+    return a-b
+def mul(a,b):
+    return a*b
+def div(a,b):
+    return a//b
+print("\n1.Addition\n2.Substarction\n3.Multliplication\n4.Division\n")
+c=int(input("Enter your choice number: "))
+a=int(input("Enter a number: "))
+b=int(input("Enter another number: "))
+if(c==1):
+    w=add(a,b)
+    print("The sum is",w)
+elif(c==2):
+    x=sub(a,b)
+    print("The difference is",x)
+elif(c==3):
+    y=mul(a,b)
+    print("The product is",y)
+elif(c==4):
+    z=div(a,b)
+    print("The quotient is ",z)
+else:
+    print("invalid")
+
+```
+![Sum Using Function](https://user-images.githubusercontent.com/132330607/237047689-fc0c11e4-eeed-492e-89b5-9899f37423ba.png)
