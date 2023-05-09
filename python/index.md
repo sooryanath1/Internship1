@@ -116,4 +116,4 @@ for i in range(1,11,1):
     print(i ,'x',a,'=',a*i)
     
 ```
-![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/Multiplication Table Using For Loop.png)
+![sampleoutput](https://github.com/sooryanath1/Internship1/blob/main/img/Multiplication%20Table%20Using%20For%20Loop.png)
